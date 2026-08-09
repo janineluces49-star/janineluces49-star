@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janineluces49-star&theme=dark)
+
+
+### 🐍 Contribution Graph (Snake)
+![Snake animation](https://github.com/janineluces49-star/janineluces49-star/blob/output/github-contribution-grid-snake.svg)
