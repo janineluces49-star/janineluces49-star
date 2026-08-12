@@ -1,10 +1,11 @@
 ## Hi there 👋
-## BACKEND
+<p align="center">
+  <img src="./assets/backend-developer-lyrics.gif" width="800" alt="BACKEND DEVELOPER">
+</p>
 
-**class = Backend / Full-Stack Apprentice**  
-**origin = Philippines**
-
----
+<p align="center">
+  <img src="./assets/profile-panel-with-moving-visual.gif" width="800" alt="Backend Developer Profile">
+</p>
 
 ### 💻 Languages & Technologies
 
