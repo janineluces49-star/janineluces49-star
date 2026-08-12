@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ninnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=janineluces49-star&show_icons=true&theme=dark)
+
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janineluces49-star&theme=dark)
