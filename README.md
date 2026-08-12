@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/backend-developer-lyrics.gif" width="800" alt="BACKEND DEVELOPER">
+  <img src="./assets/backend-developer-lyrics.gif" width="800" alt="BACKEND DEV">
 </p>
 
 <p align="center">
