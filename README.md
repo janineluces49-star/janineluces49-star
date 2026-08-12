@@ -1,4 +1,11 @@
 ## Hi there 👋
+<p align="center">
+  <img src="./assets/backend-developer-lyrics.gif" alt="BACKEND DEVELOPER animated lyrics">
+</p>
+
+<p align="center">
+  <img src="./assets/profile-panel-with-moving-visual.gif" alt="Backend developer profile panel">
+</p>
 ## BACKEND
 class = Backend / Full-Stack Apprentice
 origin = Philippines
