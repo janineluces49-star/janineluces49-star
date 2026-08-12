@@ -1,14 +1,5 @@
 ## Hi there 👋
-<p align="center">
-  <img src="./assets/backend-developer-lyrics.gif" alt="BACKEND DEVELOPER animated lyrics">
-</p>
 
-<p align="center">
-  <img src="./assets/profile-panel-with-moving-visual.gif" alt="Backend developer profile panel">
-</p>
-## BACKEND
-class = Backend / Full-Stack Apprentice
-origin = Philippines
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
