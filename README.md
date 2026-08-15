@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Jah</h1>
+
+
+
+
+
+
 <p align="center">
   <img src="./assets/backend-dev-lyrics.gif" width="800" alt="BACKEND DEV">
 </p>
@@ -38,6 +45,12 @@ Here are some ideas to get you started:
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jvhluces&theme=dark)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jvhluces&label=Profile%20views&color=0e75b6&style=flat" alt="jvhluces" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/jah luces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jah luces" height="30" width="40" /></a>
+<a href="https://instagram.com/jvhnin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jvhnin" height="30" width="40" /></a>
+</p>
 
 
