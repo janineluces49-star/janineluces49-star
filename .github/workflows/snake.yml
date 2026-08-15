@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # araw-araw mag-update
   workflow_dispatch:
 
 permissions:
@@ -16,13 +16,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Pacman
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: janineluces49-star
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-pacman.svg
 
-      - name: Push Snake to output branch
+      - name: Push Pacman to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
