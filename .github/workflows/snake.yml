@@ -19,8 +19,11 @@ jobs:
       - name: Generate Pacman
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: janineluces49-star
+          github_user_name: jvhluces
           outputs: dist/github-contribution-grid-pacman.svg
+          color_snake: "#FFD700"   # Pac-Man yellow
+          color_dots: "#1E1E2F"    # dark background
+          color_empty: "#2A2A40"   # subtle grid tone
 
       - name: Push Pacman to output branch
         uses: crazy-max/ghaction-github-pages@v4
