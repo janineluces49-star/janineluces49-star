@@ -47,11 +47,8 @@ Here are some ideas to get you started:
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jvhluces&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jvhluces&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jvhluces&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jvhluces&theme=dark)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jah luces) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jvhnin)
