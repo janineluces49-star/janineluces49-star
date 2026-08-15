@@ -1,4 +1,19 @@
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jah luces) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jvhnin) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jvhluces&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jvhluces&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jvhluces&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jvhluces&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 
 
 
@@ -46,11 +61,5 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jvhluces&theme=dark)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvhluces&label=Profile%20views&color=0e75b6&style=flat" alt="jvhluces" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jah luces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jah luces" height="30" width="40" /></a>
-<a href="https://instagram.com/jvhnin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jvhnin" height="30" width="40" /></a>
-</p>
 
 
