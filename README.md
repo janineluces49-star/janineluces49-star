@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jvhluces&theme=dark)
 
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jvhluces&label=Profile%20views&color=0e75b6&style=flat" alt="jvhluces" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
