@@ -1,8 +1,4 @@
 
-
-
-
-
 <p align="center">
   <img src="./assets/backend-dev-lyrics.gif" width="800" alt="BACKEND DEV">
 </p>
@@ -55,11 +51,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvhluces&label=Profile%20views&color=0e75b6&style=flat" alt="jvhluces" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jah luces" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jah luces" height="30" width="40" /></a>
-<a href="https://instagram.com/jvhnin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jvhnin" height="30" width="40" /></a>
-</p>
+
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19G4W1vV9R/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jvh_ninn?igsh=NDJyaWVzM2E5cDhp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/janine-luces-494637423?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jvhluces&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
