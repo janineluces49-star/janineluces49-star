@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jvhluces&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jvhluces&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=jvhluces&theme=dark)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvhluces&label=Profile%20views&color=0e75b6&style=flat" alt="jvhluces" /> </p>
