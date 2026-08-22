@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 
 
-### 🕹️ Retro Arcade Game
+### 🧊 3D Contribution Grid
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJqN3E1cWx2ZXN4bzR1YmFhNDJ3Z3BicXR2ZW9vZmRxdHRhZnk3NyZlcD12MV9naWZzX3NlYXJctionZjdD1n/111ebonMs90YLu/giphy.gif" alt="Retro Gaming" width="300px">
+  <img src="https://github-profile-3d-contrib.s3.uzaw.me/jvhluces/profile-3d-contrib/night-city.svg" alt="3D Contribution Graph" />
 </p>
