@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=130&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=22&fontColor=ffffff&fontAlign=50&animation=fadeIn&fontY=35" alt="Header Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=130&section=header&text=I'M%20JANINE&fontSize=22&fontColor=ffffff&fontAlign=50&animation=fadeIn&fontY=35" alt="Header Animation" />
 </p>
 
 
