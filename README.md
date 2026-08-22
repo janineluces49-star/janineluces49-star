@@ -67,7 +67,3 @@ Here are some ideas to get you started:
 
 
 
-### 🧊 3D Contribution Grid
-<p align="center">
-  <img src="https://github-profile-3d-contrib.s3.uzaw.me/jvhluces/profile-3d-contrib/night-city.svg" alt="3D Contribution Graph" />
-</p>
