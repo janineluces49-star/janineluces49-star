@@ -65,10 +65,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jvh_ninn?igsh=NDJyaWVzM2E5cDhp) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janine-luces-494637423?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-### 🎮 Developer Stats & Languages
-
-<img src="https://github-readme-stats.vercel.app/api?username=jvhluces&show_icons=true&theme=vue&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-languages/?username=jvhluces&theme=vue&hide_border=true&layout=compact" />
 
 
+### 📈 Contribution Graph
+<img src="https://activity-graph.herokuapp.com/graph?username=jvhluces&theme=react-dark&hide_border=true" />
