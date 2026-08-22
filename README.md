@@ -67,5 +67,7 @@ Here are some ideas to get you started:
 
 
 
-### 🎮 Play Status
-[![Retro Game](https://img.shields.io/badge/STATUS-PLAYING%20RETRO%20GAMES-000000?style=for-the-badge&logo=retroarch&logoColor=white)](https://github.com/jvhluces)
+### 🕹️ Retro Arcade Game
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJqN3E1cWx2ZXN4bzR1YmFhNDJ3Z3BicXR2ZW9vZmRxdHRhZnk3NyZlcD12MV9naWZzX3NlYXJctionZjdD1n/111ebonMs90YLu/giphy.gif" alt="Retro Gaming" width="300px">
+</p>
