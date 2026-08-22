@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 
 
 
-### 📈 Contribution Graph
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k1NjZsd2Z0NXc0eGx0Z2JwdzV4ZDV3NnR3a2QwNHZ3dzhmd2E5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/W1Q6yL0xYyM1E6L2rX/giphy.gif" alt="Pixel Game Over" width="250px">
+  <img src="https://cdn.dribbble.com/users/98994/screenshots/3644637/dribbble-pacman-loading.gif" alt="Pacman Loading" width="100px">
 </p>
