@@ -68,5 +68,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/98994/screenshots/3644637/dribbble-pacman-loading.gif" alt="Pacman Loading" width="100px">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Gaming Animation" width="200px">
 </p>
