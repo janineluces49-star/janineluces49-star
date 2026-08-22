@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 
 
 
+### 🕹️ Retro Game Screensaver
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Gaming Animation" width="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=jvhluces&show_icons=true&theme=vue&hide_border=true&count_private=true" width="0px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jvhluces&theme=monochrome&no-bg=true&no-frame=true" width="0px" />
+  <img src="https://user-images.githubusercontent.com/104269267/225159097-08553d85-e250-4683-96f3-f94c7cc40027.svg" alt="GitHub Pong" width="500px">
 </p>
