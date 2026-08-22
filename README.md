@@ -48,7 +48,10 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jvhluces&theme=radical)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=vue&username=jvhluces)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jvhluces&theme=dark)](https://git.io/streak-stats)
+
 
 
 
