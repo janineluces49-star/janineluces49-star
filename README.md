@@ -60,11 +60,8 @@ Here are some ideas to get you started:
 
 
 
-
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/19G4W1vV9R/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jvh_ninn?igsh=NDJyaWVzM2E5cDhp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janine-luces-494637423?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
-
-
-
-
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/19G4W1vV9R/) 
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jvh_ninn?igsh=NDJyaWVzM2E5cDhp) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janine-luces-494637423?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
