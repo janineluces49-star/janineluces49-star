@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IYONG_GITHUB_USERNAME&theme=radical)](https://git.io/streak-stats)
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jvhluces&theme=radical)](https://git.io/streak-stats)
 
