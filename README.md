@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+jvhluces+👋;Backend+Developer+💻;Turning+ideas+into+clean+code+⚡" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="./assets/backend-dev-lyrics.gif" width="800" alt="BACKEND DEV">
