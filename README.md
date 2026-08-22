@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Hi%20there,%20I'm%20jvhluces%20👋&fontSize=26&fontColor=ffffff&fontAlign=50&animation=fadeIn&fontY=38" alt="Header Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+jvhluces+👋;Backend+Developer+💻;Welcome+to+my+profile+⚡" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=100&section=header&animation=fadeIn" width="100%" />
 </p>
 
 
