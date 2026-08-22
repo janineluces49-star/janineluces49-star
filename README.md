@@ -65,3 +65,11 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jvh_ninn?igsh=NDJyaWVzM2E5cDhp) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janine-luces-494637423?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
+
+### 🎮 RPG Character Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jvhluces&show_icons=true&theme=vue&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=jvhluces&theme=vue&hide_border=true&layout=compact" width="48%" />
+</p>
+
+
