@@ -75,3 +75,10 @@ Here are some ideas to get you started:
 
 
 
+### 👾 Retro Contribution Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jvhluces/jvhluces/output/github-contribution-grid-snake-dark.svg" alt="Retro Game Animation" />
+</p>
+
+
+
